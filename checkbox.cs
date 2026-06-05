@@ -1,4 +1,7 @@
-/* Bu projede amaç kullanıcı ekrana en fazla 10 tane checkbox ekleyebilir. 10 tane ekledikten sonra ekleme yapmak isterse hata mesajı alır. Eklediği checkboxlardan ise maksimum 3 tane seçim yapabilir. */
+/* Bu projede amaç kullanıcı ekrana en fazla 10 tane checkbox ekleyebilmesidir. 10 tane ekledikten sonra ekleme yapmak isterse uyarı mesajı alır.
+Eklediği checkboxlardan ise maksimum 3 tane seçim yapabilir. 
+Visual Studio 2026 kullanılmıştır. C# form uygulamasıyla çalışır.*/
+
 namespace gorselprogramlamaodev
 {
     public partial class Form1 : Form
