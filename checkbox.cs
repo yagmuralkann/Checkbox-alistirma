@@ -1,3 +1,4 @@
+/* Bu projede amaç kullanıcı ekrana en fazla 10 tane checkbox ekleyebilir. 10 tane ekledikten sonra ekleme yapmak isterse hata mesajı alır. Eklediği checkboxlardan ise maksimum 3 tane seçim yapabilir. */
 namespace gorselprogramlamaodev
 {
     public partial class Form1 : Form
